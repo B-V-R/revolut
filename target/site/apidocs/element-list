@@ -1,0 +1,8 @@
+org.vighnesh.revolut
+org.vighnesh.revolut.cdi
+org.vighnesh.revolut.controller
+org.vighnesh.revolut.exception
+org.vighnesh.revolut.model
+org.vighnesh.revolut.services
+org.vighnesh.revolut.services.support
+org.vighnesh.revolut.util

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.vighnesh.revolut"},{"l":"org.vighnesh.revolut.cdi"},{"l":"org.vighnesh.revolut.controller"},{"l":"org.vighnesh.revolut.exception"},{"l":"org.vighnesh.revolut.model"},{"l":"org.vighnesh.revolut.services"},{"l":"org.vighnesh.revolut.services.support"},{"l":"org.vighnesh.revolut.util"}]

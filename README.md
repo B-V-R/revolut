@@ -1,6 +1,3 @@
-# revolut-task
-Test task for Revolut.
-
 The REST Api for money transfer.
 Technologies used:
 1. Maven as project management tool
@@ -8,6 +5,10 @@ Technologies used:
 3. Guice for dependency injection
 4. JUnit and Mockito for testing
 
+## API Documentation is available in 
+`\revolut\target\site\apidocs`
+or 
+https://vighnesh.org/revolut/apidocs
 ## Usage
 To run the application:
 1. `mvn clean package` //will create jar file
